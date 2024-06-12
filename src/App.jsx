@@ -7,7 +7,7 @@ const StyledApp = styled.div`
 
 const TitleBox = styled.section`
   font-size: 1.6rem;
-  color: var(--Grayish-Blue);
+  color: var(--Very-Dark-Blue);
   font-weight: 200;
   text-align: center;
 
@@ -18,7 +18,7 @@ const TitleBox = styled.section`
 `;
 const TextBox = styled.p`
   font-size: 0.8rem;
-  color: var(--Grayish-Blue);
+  color: var(--Very-Dark-Blue);
   font-weight: 400;
   text-align: center;
 `;
@@ -44,7 +44,7 @@ const FeatureBox = styled.div`
 
   p {
     font-size: 0.8rem;
-    color: var(--Very-Dark-Blue);
+    color: var(--Grayish-Blue);
   }
 `;
 const H2 = styled.h2`
